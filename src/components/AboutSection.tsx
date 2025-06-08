@@ -62,7 +62,7 @@ const AboutSection = () => {
                   <div className="w-full h-full rounded-full bg-cyber-black flex items-center justify-center">
                     <Terminal className="w-16 h-16 text-cyber-volt animate-flicker" />
                       <img
-                        src="/public/me.jpg"
+                        src="/lovable-uploads/a9955dff-d3d4-4c32-83e8-bf971951b76c.png"
                         alt="Sunheng Profile"
                         className="w-full h-full object-cover"
                         onError={(e) => {
